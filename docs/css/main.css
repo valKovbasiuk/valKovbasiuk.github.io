@@ -1,0 +1,7 @@
+body {
+  display: flex; }
+
+.centered {
+  min-width: 50vw;
+  width: 600px;
+  margin: auto; }
